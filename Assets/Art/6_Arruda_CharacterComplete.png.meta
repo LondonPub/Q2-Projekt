@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 07518c6b9f37928438ddc399143aa48d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1151028457438093258
+    second: 6_Arruda_CharacterComplete_0
+  - first:
+      213: 1650188520486543119
+    second: 6_Arruda_CharacterComplete_1
+  - first:
+      213: 4318614209199572201
+    second: 6_Arruda_CharacterComplete_2
+  - first:
+      213: 1341191922774076760
+    second: 6_Arruda_CharacterComplete_3
+  - first:
+      213: 6643002442564440712
+    second: 6_Arruda_CharacterComplete_4
+  - first:
+      213: -2235091549460946942
+    second: 6_Arruda_CharacterComplete_5
+  - first:
+      213: 7021854779038522203
+    second: 6_Arruda_CharacterComplete_6
+  - first:
+      213: -2866366921507243984
+    second: 6_Arruda_CharacterComplete_7
+  - first:
+      213: 5769091894472915198
+    second: 6_Arruda_CharacterComplete_8
+  - first:
+      213: 3926318819160267280
+    second: 6_Arruda_CharacterComplete_9
+  - first:
+      213: -5491264161293323911
+    second: 6_Arruda_CharacterComplete_10
+  - first:
+      213: 5852063416553051025
+    second: 6_Arruda_CharacterComplete_11
+  - first:
+      213: 8813471413381798073
+    second: 6_Arruda_CharacterComplete_12
+  - first:
+      213: 5515511065640361380
+    second: 6_Arruda_CharacterComplete_13
+  - first:
+      213: 7020259320945073653
+    second: 6_Arruda_CharacterComplete_14
+  - first:
+      213: -912383362557195462
+    second: 6_Arruda_CharacterComplete_15
+  - first:
+      213: -1586855817559316994
+    second: 6_Arruda_CharacterComplete_16
+  - first:
+      213: -1233580940442091700
+    second: 6_Arruda_CharacterComplete_17
+  - first:
+      213: -4262919729095144980
+    second: 6_Arruda_CharacterComplete_18
+  - first:
+      213: 3455874255508790226
+    second: 6_Arruda_CharacterComplete_19
+  - first:
+      213: 5807820729343438862
+    second: 6_Arruda_CharacterComplete_20
+  - first:
+      213: 3938072200594951470
+    second: 6_Arruda_CharacterComplete_21
+  - first:
+      213: -4692755476454541567
+    second: 6_Arruda_CharacterComplete_22
+  - first:
+      213: -1385744698297676746
+    second: 6_Arruda_CharacterComplete_23
+  - first:
+      213: -3034166225934497645
+    second: 6_Arruda_CharacterComplete_24
+  - first:
+      213: -7700728592332338976
+    second: 6_Arruda_CharacterComplete_25
+  - first:
+      213: -1472380731483582238
+    second: 6_Arruda_CharacterComplete_26
+  - first:
+      213: 3761392385766189014
+    second: 6_Arruda_CharacterComplete_27
+  - first:
+      213: 5500237374847329984
+    second: 6_Arruda_CharacterComplete_28
+  - first:
+      213: -9084700645259367596
+    second: 6_Arruda_CharacterComplete_29
+  - first:
+      213: -1847118060233584106
+    second: 6_Arruda_CharacterComplete_30
+  - first:
+      213: 2028154754419237698
+    second: 6_Arruda_CharacterComplete_31
+  - first:
+      213: 4930352039828664269
+    second: 6_Arruda_CharacterComplete_32
+  - first:
+      213: -7503715047325123867
+    second: 6_Arruda_CharacterComplete_33
+  - first:
+      213: -2813760481423172713
+    second: 6_Arruda_CharacterComplete_34
+  - first:
+      213: 382772007730066156
+    second: 6_Arruda_CharacterComplete_35
+  - first:
+      213: -6994566075515688370
+    second: 6_Arruda_CharacterComplete_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 755
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630690467b9b600f0800000000000000
+      internalID: -1151028457438093258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 575
+        width: 78
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f170067b5a6e610800000000000000
+      internalID: 1650188520486543119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 575
+        width: 78
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e48b450ebcceeb30800000000000000
+      internalID: 4318614209199572201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d6294a2fedc9210800000000000000
+      internalID: 1341191922774076760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 767
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821b1f768fa03c50800000000000000
+      internalID: 6643002442564440712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 671
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20027e9e31c5bf0e0800000000000000
+      internalID: -2235091549460946942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 671
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b58f8d7b3a27160800000000000000
+      internalID: 7021854779038522203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 471
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03871a7b87e9838d0800000000000000
+      internalID: -2866366921507243984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 467
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8b4a6138eef0050800000000000000
+      internalID: 5769091894472915198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 467
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a9afad9261d7630800000000000000
+      internalID: 3926318819160267280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 344
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971374ad65c1bc3b0800000000000000
+      internalID: -5491264161293323911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 339
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19314bafba4b63150800000000000000
+      internalID: 5852063416553051025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 339
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b89ea00e8dbf4a70800000000000000
+      internalID: 8813471413381798073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213
+        width: 123
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adda3e77180b8c40800000000000000
+      internalID: 5515511065640361380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 213
+        width: 126
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5e0058a8fc6160800000000000000
+      internalID: 7020259320945073653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6_Arruda_CharacterComplete_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 85
+        width: 103
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4dcf6a209653f0800000000000000
+      internalID: -912383362557195462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 775bb13d1f88e7047a38ff6e22ceb3dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      6_Arruda_CharacterComplete_0: -1151028457438093258
+      6_Arruda_CharacterComplete_1: 1650188520486543119
+      6_Arruda_CharacterComplete_10: -5491264161293323911
+      6_Arruda_CharacterComplete_11: 5852063416553051025
+      6_Arruda_CharacterComplete_12: 8813471413381798073
+      6_Arruda_CharacterComplete_13: 5515511065640361380
+      6_Arruda_CharacterComplete_14: 7020259320945073653
+      6_Arruda_CharacterComplete_15: -912383362557195462
+      6_Arruda_CharacterComplete_16: -1586855817559316994
+      6_Arruda_CharacterComplete_17: -1233580940442091700
+      6_Arruda_CharacterComplete_18: -4262919729095144980
+      6_Arruda_CharacterComplete_19: 3455874255508790226
+      6_Arruda_CharacterComplete_2: 4318614209199572201
+      6_Arruda_CharacterComplete_20: 5807820729343438862
+      6_Arruda_CharacterComplete_21: 3938072200594951470
+      6_Arruda_CharacterComplete_22: -4692755476454541567
+      6_Arruda_CharacterComplete_23: -1385744698297676746
+      6_Arruda_CharacterComplete_24: -3034166225934497645
+      6_Arruda_CharacterComplete_25: -7700728592332338976
+      6_Arruda_CharacterComplete_26: -1472380731483582238
+      6_Arruda_CharacterComplete_27: 3761392385766189014
+      6_Arruda_CharacterComplete_28: 5500237374847329984
+      6_Arruda_CharacterComplete_29: -9084700645259367596
+      6_Arruda_CharacterComplete_3: 1341191922774076760
+      6_Arruda_CharacterComplete_30: -1847118060233584106
+      6_Arruda_CharacterComplete_31: 2028154754419237698
+      6_Arruda_CharacterComplete_32: 4930352039828664269
+      6_Arruda_CharacterComplete_33: -7503715047325123867
+      6_Arruda_CharacterComplete_34: -2813760481423172713
+      6_Arruda_CharacterComplete_35: 382772007730066156
+      6_Arruda_CharacterComplete_36: -6994566075515688370
+      6_Arruda_CharacterComplete_37: -2089068671
+      6_Arruda_CharacterComplete_38: 570246851
+      6_Arruda_CharacterComplete_4: 6643002442564440712
+      6_Arruda_CharacterComplete_5: -2235091549460946942
+      6_Arruda_CharacterComplete_6: 7021854779038522203
+      6_Arruda_CharacterComplete_7: -2866366921507243984
+      6_Arruda_CharacterComplete_8: 5769091894472915198
+      6_Arruda_CharacterComplete_9: 3926318819160267280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
